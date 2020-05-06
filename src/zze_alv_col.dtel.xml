@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZZE_ALV_COL</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <HEADLEN>10</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>10</SCRLEN2>
+    <SCRLEN3>10</SCRLEN3>
+    <DDTEXT>ALV Framework - ALV Column</DDTEXT>
+    <REPTEXT>ALV Column</REPTEXT>
+    <SCRTEXT_S>ALV Column</SCRTEXT_S>
+    <SCRTEXT_M>ALV Column</SCRTEXT_M>
+    <SCRTEXT_L>ALV Column</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <DATATYPE>NUMC</DATATYPE>
+    <LENG>000003</LENG>
+    <OUTPUTLEN>000003</OUTPUTLEN>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>ALV Column</DDTEXT>
+     <REPTEXT>ALV Column</REPTEXT>
+     <SCRTEXT_S>Column</SCRTEXT_S>
+     <SCRTEXT_M>ALV Column</SCRTEXT_M>
+     <SCRTEXT_L>ALV Column</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

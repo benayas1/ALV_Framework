@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+    <LANGU>S</LANGU>
+    <DESCRIPT>ALV Framework</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+    <MSG_ID>ZALV</MSG_ID>
+   </VSEOCLASS>
+   <I18N_TPOOL>
+    <item>
+     <LANGUAGE>S</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>999</KEY>
+       <ENTRY>&amp; &amp; &amp; &amp;</ENTRY>
+       <LENGTH>7</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+   </I18N_TPOOL>
+   <I18N_LINES>
+    <item>
+     <LANGUAGE>S</LANGUAGE>
+    </item>
+   </I18N_LINES>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>AT_ALV_KEY</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>ALV Key for Diagnostic Tool</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>AT_DATA</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Data stored in ALV</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>AT_EVENT_HANDLER</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Container for Custom Controls in the Screen Area</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>AT_O_ALV</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Basis Class for Simple Tables</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>COLUMN_HEADING</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Set Columns Headers in Details ALV</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>C_PFSTATUS</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>PF Status</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>C_PROG</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>ABAP Program: Current Main Program</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>DISPLAY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Displays ALV</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>DISPLAY</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Displays ALV</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>GET_ALV_ROW</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get a pointer to an ALV row</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>GET_ALV_ROW</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Get a pointer to an ALV row</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>GET_COLUMNS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Returns Object Columns</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>GET_COLUMNS</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Returns Object Columns</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>GET_EVENT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Event Object to be linked to Events externally</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>GET_EVENT</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Get Event Object to be linked to Events externally</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>INITIALIZE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Data is passed and columns and header are set</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>INITIALIZE</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Data is passed and columns and header are set</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>REFRESH</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Refresh ALV</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>REFRESH</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Refresh ALV</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>SET_COLUMNS_ALV</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Set Columns based on config</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_ALV_TOOL</CLSNAME>
+     <CMPNAME>SET_HEADER_ALV</CMPNAME>
+     <LANGU>S</LANGU>
+     <DESCRIPT>Set Header based on Config</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZZE_ALV_COL_NAME</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <HEADLEN>11</HEADLEN>
+    <SCRLEN1>08</SCRLEN1>
+    <SCRLEN2>11</SCRLEN2>
+    <SCRLEN3>11</SCRLEN3>
+    <DDTEXT>ALV Framework - Column Name</DDTEXT>
+    <REPTEXT>Column Name</REPTEXT>
+    <SCRTEXT_S>Col Name</SCRTEXT_S>
+    <SCRTEXT_M>Column Name</SCRTEXT_M>
+    <SCRTEXT_L>Column Name</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000030</LENG>
+    <OUTPUTLEN>000030</OUTPUTLEN>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>S</DDLANGUAGE>
+     <DDTEXT>Column Name for ALV in Payroll Diagnostic Tool</DDTEXT>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
